@@ -1,0 +1,19 @@
+{
+  "name": "abc-traders",
+  "version": "1.0.0",
+  "description": "ABC Traders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jondarrer/abc-traders.git"
+  },
+  "author": "Jonathan Darrer <jonny@jondarrer.me.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jondarrer/abc-traders/issues"
+  },
+  "homepage": "https://github.com/jondarrer/abc-traders#readme"
+}
