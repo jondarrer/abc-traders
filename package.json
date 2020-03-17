@@ -4,7 +4,8 @@
   "description": "ABC Traders",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No test specified\""
+    "test": "echo \"No test specified\"",
+    "build": "echo \"No build specified\""
   },
   "repository": {
     "type": "git",
